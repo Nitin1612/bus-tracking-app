@@ -69,7 +69,7 @@ export default function App() {
         <Header />
         <div className="mb-4 max-h-svh">
           <img
-            src="./src/assets/bg.jpg"
+            src="https://uffizio.com/wp-content/uploads/2024/02/ADAS-60-1.jpg"
             alt="bg"
             className="w-full rounded-lg shadow-sm"
           />
