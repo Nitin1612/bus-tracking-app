@@ -1,0 +1,804 @@
+{
+  "busroutes": [
+    {
+      "busNo": "O36",
+      "from": "Cheran Nagar",
+      "to": "Athupalam Bus Stop",
+      "firstBus": "05:30",
+      "lastBus": "22:15",
+      "frequencyMins": 15
+    },
+    {
+      "busNo": "C6T",
+      "from": "Kalapatti Pirivu",
+      "to": "Saravanampatti",
+      "firstBus": "06:15",
+      "lastBus": "20:00",
+      "frequencyMins": 10
+    },
+    {
+      "busNo": "25Q",
+      "from": "KovaiPudur Pirivu",
+      "to": "Sundakkamuthur",
+      "firstBus": "06:30",
+      "lastBus": "20:15",
+      "frequencyMins": 25
+    },
+    {
+      "busNo": "H0C",
+      "from": "Thudiyalur Bus Stop",
+      "to": "Thottipalayam",
+      "firstBus": "06:30",
+      "lastBus": "20:00",
+      "frequencyMins": 15
+    },
+    {
+      "busNo": "H1",
+      "from": "Veerakeralam",
+      "to": "Karumbu Kadai",
+      "firstBus": "05:30",
+      "lastBus": "20:00",
+      "frequencyMins": 15
+    },
+    {
+      "busNo": "6X",
+      "from": "SITRA Bus Stop",
+      "to": "Viswaspuram Bus Stop",
+      "firstBus": "07:00",
+      "lastBus": "20:00",
+      "frequencyMins": 10
+    },
+    {
+      "busNo": "G4",
+      "from": "Vadavalli Bus Stand",
+      "to": "Lakshmi Mills",
+      "firstBus": "06:45",
+      "lastBus": "21:15",
+      "frequencyMins": 20
+    },
+    {
+      "busNo": "6WE",
+      "from": "Pulianthoppu Priya Nagar",
+      "to": "Lawley Road",
+      "firstBus": "05:15",
+      "lastBus": "21:45",
+      "frequencyMins": 10
+    },
+    {
+      "busNo": "L90",
+      "from": "Thottipalayam",
+      "to": "LGB Nagar Bus Stop",
+      "firstBus": "05:00",
+      "lastBus": "21:15",
+      "frequencyMins": 15
+    },
+    {
+      "busNo": "H0",
+      "from": "Singanallur",
+      "to": "Gandhipuram Bus Stand",
+      "firstBus": "07:30",
+      "lastBus": "20:30",
+      "frequencyMins": 20
+    },
+    {
+      "busNo": "8Z",
+      "from": "CMS Bus Stop",
+      "to": "Singanallur",
+      "firstBus": "07:15",
+      "lastBus": "20:15",
+      "frequencyMins": 20
+    },
+    {
+      "busNo": "6F",
+      "from": "Pulianthoppu Priya Nagar",
+      "to": "Nalvar Bus Stop",
+      "firstBus": "06:45",
+      "lastBus": "21:45",
+      "frequencyMins": 15
+    },
+    {
+      "busNo": "9C",
+      "from": "Pulianthoppu Priya Nagar",
+      "to": "Kulathupalayam Bus Stop",
+      "firstBus": "05:15",
+      "lastBus": "20:15",
+      "frequencyMins": 20
+    },
+    {
+      "busNo": "N1",
+      "from": "Ukkadam Bus Stand",
+      "to": "Kulathupalayam Bus Stop",
+      "firstBus": "05:30",
+      "lastBus": "20:45",
+      "frequencyMins": 30
+    },
+    {
+      "busNo": "7U5",
+      "from": "Lawley Road",
+      "to": "Sundakkamuthur",
+      "firstBus": "06:30",
+      "lastBus": "21:15",
+      "frequencyMins": 25
+    },
+    {
+      "busNo": "2SK",
+      "from": "Narasimpuram Bus Stop",
+      "to": "CIT Bus Stop",
+      "firstBus": "06:45",
+      "lastBus": "21:30",
+      "frequencyMins": 25
+    },
+    {
+      "busNo": "9Q",
+      "from": "Karumbu Kadai",
+      "to": "Moongathur Bus Stop",
+      "firstBus": "06:45",
+      "lastBus": "20:00",
+      "frequencyMins": 20
+    },
+    {
+      "busNo": "65C",
+      "from": "Saravanampatti",
+      "to": "Ondipudur",
+      "firstBus": "05:45",
+      "lastBus": "22:00",
+      "frequencyMins": 15
+    },
+    {
+      "busNo": "6G",
+      "from": "Peelamedu",
+      "to": "Veerakeralam",
+      "firstBus": "05:30",
+      "lastBus": "22:00",
+      "frequencyMins": 10
+    },
+    {
+      "busNo": "Q0",
+      "from": "Cheran Nagar",
+      "to": "KovaiPudur Pirivu",
+      "firstBus": "07:00",
+      "lastBus": "22:30",
+      "frequencyMins": 25
+    },
+    {
+      "busNo": "9DJ",
+      "from": "CMS Bus Stop",
+      "to": "PSG Arts Bus Stop",
+      "firstBus": "06:45",
+      "lastBus": "22:00",
+      "frequencyMins": 30
+    },
+    {
+      "busNo": "V5",
+      "from": "Chinnavedampatti",
+      "to": "Jayaram Nagar",
+      "firstBus": "05:00",
+      "lastBus": "21:30",
+      "frequencyMins": 10
+    },
+    {
+      "busNo": "4F8",
+      "from": "KGISL Bus Stop",
+      "to": "Thottipalayam",
+      "firstBus": "07:00",
+      "lastBus": "20:45",
+      "frequencyMins": 25
+    },
+    {
+      "busNo": "71G",
+      "from": "Lawley Road",
+      "to": "Sullivan Street",
+      "firstBus": "05:00",
+      "lastBus": "20:00",
+      "frequencyMins": 20
+    },
+    {
+      "busNo": "4SI",
+      "from": "Gandhipuram Bus Stand",
+      "to": "Ram Nagar",
+      "firstBus": "06:45",
+      "lastBus": "21:00",
+      "frequencyMins": 20
+    },
+    {
+      "busNo": "M0A",
+      "from": "Ondipudur",
+      "to": "Podanur",
+      "firstBus": "06:00",
+      "lastBus": "21:00",
+      "frequencyMins": 20
+    },
+    {
+      "busNo": "B0L",
+      "from": "KovaiPudur Pirivu",
+      "to": "Kuniaymuthur Bus Stop",
+      "firstBus": "06:15",
+      "lastBus": "20:15",
+      "frequencyMins": 15
+    },
+    {
+      "busNo": "O8",
+      "from": "Thudiyalur Bus Stop",
+      "to": "Thomas Park Bus Stop",
+      "firstBus": "07:30",
+      "lastBus": "20:45",
+      "frequencyMins": 20
+    },
+    {
+      "busNo": "QY5",
+      "from": "Viswaspuram Bus Stop",
+      "to": "Athupalam Bus Stop",
+      "firstBus": "07:00",
+      "lastBus": "22:30",
+      "frequencyMins": 15
+    },
+    {
+      "busNo": "T4R",
+      "from": "Moongathur Bus Stop",
+      "to": "Jayaram Nagar",
+      "firstBus": "05:30",
+      "lastBus": "22:00",
+      "frequencyMins": 20
+    },
+    {
+      "busNo": "O3E",
+      "from": "Ramanathapuram",
+      "to": "KovaiPudur Pirivu",
+      "firstBus": "07:15",
+      "lastBus": "22:45",
+      "frequencyMins": 30
+    },
+    {
+      "busNo": "D83",
+      "from": "CMS Housing Unit",
+      "to": "Ram Nagar",
+      "firstBus": "06:45",
+      "lastBus": "21:00",
+      "frequencyMins": 10
+    },
+    {
+      "busNo": "4U",
+      "from": "Gem Nirmalayam",
+      "to": "CMS Housing Unit",
+      "firstBus": "05:15",
+      "lastBus": "22:00",
+      "frequencyMins": 15
+    },
+    {
+      "busNo": "LX5",
+      "from": "CMS Bus Stop",
+      "to": "Kalapatti Pirivu",
+      "firstBus": "06:15",
+      "lastBus": "20:15",
+      "frequencyMins": 10
+    },
+    {
+      "busNo": "5MT",
+      "from": "Moongathur Bus Stop",
+      "to": "Kalapatti Pirivu",
+      "firstBus": "05:00",
+      "lastBus": "21:00",
+      "frequencyMins": 10
+    },
+    {
+      "busNo": "1J",
+      "from": "Ukkadam Bus Stand",
+      "to": "Navavoor Pirivu",
+      "firstBus": "06:15",
+      "lastBus": "21:15",
+      "frequencyMins": 25
+    },
+    {
+      "busNo": "AV3",
+      "from": "Athupalam Bus Stop",
+      "to": "KGISL Bus Stop",
+      "firstBus": "05:15",
+      "lastBus": "22:15",
+      "frequencyMins": 25
+    },
+    {
+      "busNo": "QR9",
+      "from": "Moongathur Bus Stop",
+      "to": "LGB Nagar Bus Stop",
+      "firstBus": "06:00",
+      "lastBus": "20:15",
+      "frequencyMins": 10
+    },
+    {
+      "busNo": "NZ4",
+      "from": "Coimbatore Junction",
+      "to": "Gandhipuram Bus Stand",
+      "firstBus": "05:00",
+      "lastBus": "20:00",
+      "frequencyMins": 10
+    },
+    {
+      "busNo": "L81",
+      "from": "CMS Bus Stop",
+      "to": "Jayaram Nagar",
+      "firstBus": "07:00",
+      "lastBus": "21:00",
+      "frequencyMins": 20
+    },
+    {
+      "busNo": "M96",
+      "from": "Karumbu Kadai",
+      "to": "KovaiPudur Pirivu",
+      "firstBus": "07:30",
+      "lastBus": "21:30",
+      "frequencyMins": 15
+    },
+    {
+      "busNo": "7S",
+      "from": "Saravanampatti",
+      "to": "Jayaram Nagar",
+      "firstBus": "05:45",
+      "lastBus": "22:15",
+      "frequencyMins": 15
+    },
+    {
+      "busNo": "9HD",
+      "from": "SIHS Colony",
+      "to": "Cheran Nagar",
+      "firstBus": "06:30",
+      "lastBus": "21:45",
+      "frequencyMins": 30
+    },
+    {
+      "busNo": "9H",
+      "from": "Kuniaymuthur Bus Stop",
+      "to": "SITRA Bus Stop",
+      "firstBus": "05:45",
+      "lastBus": "21:30",
+      "frequencyMins": 25
+    },
+    {
+      "busNo": "4PV",
+      "from": "Chinnavedampatti",
+      "to": "Saravanampatti",
+      "firstBus": "07:00",
+      "lastBus": "22:45",
+      "frequencyMins": 10
+    },
+    {
+      "busNo": "1F",
+      "from": "Peelamedu",
+      "to": "Goldwins Bus Stop",
+      "firstBus": "07:30",
+      "lastBus": "20:30",
+      "frequencyMins": 25
+    },
+    {
+      "busNo": "PS4",
+      "from": "Veerakeralam",
+      "to": "Navavoor Pirivu",
+      "firstBus": "07:00",
+      "lastBus": "20:15",
+      "frequencyMins": 10
+    },
+    {
+      "busNo": "7X",
+      "from": "Narasimpuram Bus Stop",
+      "to": "Thudiyalur Bus Stop",
+      "firstBus": "06:45",
+      "lastBus": "22:30",
+      "frequencyMins": 30
+    },
+    {
+      "busNo": "3N",
+      "from": "Gandhipuram Bus Stand",
+      "to": "Narasimpuram Bus Stop",
+      "firstBus": "06:15",
+      "lastBus": "20:45",
+      "frequencyMins": 25
+    },
+    {
+      "busNo": "1T",
+      "from": "Vadavalli Bus Stand",
+      "to": "CIT Bus Stop",
+      "firstBus": "05:15",
+      "lastBus": "21:15",
+      "frequencyMins": 25
+    },
+    {
+      "busNo": "0WF",
+      "from": "Town Hall",
+      "to": "Sitra",
+      "firstBus": "06:45",
+      "lastBus": "21:15",
+      "frequencyMins": 10
+    },
+    {
+      "busNo": "O2",
+      "from": "Moongathur Bus Stop",
+      "to": "KovaiPudur Pirivu",
+      "firstBus": "05:00",
+      "lastBus": "22:30",
+      "frequencyMins": 10
+    },
+    {
+      "busNo": "2W",
+      "from": "Nalvar Bus Stop",
+      "to": "SIHS Colony",
+      "firstBus": "07:45",
+      "lastBus": "21:30",
+      "frequencyMins": 20
+    },
+    {
+      "busNo": "2I",
+      "from": "Podanur",
+      "to": "Kulathupalayam Bus Stop",
+      "firstBus": "05:15",
+      "lastBus": "21:15",
+      "frequencyMins": 10
+    },
+    {
+      "busNo": "9J",
+      "from": "Nalvar Bus Stop",
+      "to": "Vadavalli Bus Stand",
+      "firstBus": "05:00",
+      "lastBus": "20:45",
+      "frequencyMins": 15
+    },
+    {
+      "busNo": "D4A",
+      "from": "Ganapathy",
+      "to": "PSG Arts Bus Stop",
+      "firstBus": "05:30",
+      "lastBus": "22:30",
+      "frequencyMins": 30
+    },
+    {
+      "busNo": "4D7",
+      "from": "CMS Housing Unit",
+      "to": "Sullivan Street",
+      "firstBus": "05:00",
+      "lastBus": "21:15",
+      "frequencyMins": 15
+    },
+    {
+      "busNo": "7R",
+      "from": "Kulathupalayam Bus Stop",
+      "to": "Singanallur",
+      "firstBus": "05:15",
+      "lastBus": "20:30",
+      "frequencyMins": 25
+    },
+    {
+      "busNo": "4P",
+      "from": "Thomas Park Bus Stop",
+      "to": "LGB Nagar Bus Stop",
+      "firstBus": "06:15",
+      "lastBus": "20:15",
+      "frequencyMins": 15
+    },
+    {
+      "busNo": "MK4",
+      "from": "Jayaram Nagar",
+      "to": "Vadavalli Bus Stand",
+      "firstBus": "06:00",
+      "lastBus": "21:30",
+      "frequencyMins": 10
+    },
+    {
+      "busNo": "IZ1",
+      "from": "Lawley Road",
+      "to": "Ondipudur",
+      "firstBus": "05:15",
+      "lastBus": "22:00",
+      "frequencyMins": 30
+    },
+    {
+      "busNo": "45G",
+      "from": "Gandhipuram Bus Stand",
+      "to": "Town Hall",
+      "firstBus": "06:45",
+      "lastBus": "21:30",
+      "frequencyMins": 30
+    },
+    {
+      "busNo": "9B",
+      "from": "Town Hall",
+      "to": "Athupalam Bus Stop",
+      "firstBus": "05:15",
+      "lastBus": "22:45",
+      "frequencyMins": 30
+    },
+    {
+      "busNo": "04Y",
+      "from": "Narasimpuram Bus Stop",
+      "to": "Singanallur",
+      "firstBus": "07:30",
+      "lastBus": "22:00",
+      "frequencyMins": 20
+    },
+    {
+      "busNo": "L5S",
+      "from": "CIT Bus Stop",
+      "to": "Sundakkamuthur",
+      "firstBus": "05:00",
+      "lastBus": "20:15",
+      "frequencyMins": 30
+    },
+    {
+      "busNo": "XT4",
+      "from": "Rainbow Bus Stop",
+      "to": "Nalvar Bus Stop",
+      "firstBus": "05:30",
+      "lastBus": "21:15",
+      "frequencyMins": 30
+    },
+    {
+      "busNo": "U8",
+      "from": "Rainbow Bus Stop",
+      "to": "KovaiPudur Pirivu",
+      "firstBus": "07:45",
+      "lastBus": "20:00",
+      "frequencyMins": 25
+    },
+    {
+      "busNo": "71P",
+      "from": "PSG Arts Bus Stop",
+      "to": "Thottipalayam",
+      "firstBus": "07:45",
+      "lastBus": "22:15",
+      "frequencyMins": 20
+    },
+    {
+      "busNo": "N8B",
+      "from": "Athupalam Bus Stop",
+      "to": "Lawley Road",
+      "firstBus": "07:30",
+      "lastBus": "21:45",
+      "frequencyMins": 30
+    },
+    {
+      "busNo": "A56",
+      "from": "LGB Nagar Bus Stop",
+      "to": "KovaiPudur Pirivu",
+      "firstBus": "05:30",
+      "lastBus": "22:00",
+      "frequencyMins": 30
+    },
+    {
+      "busNo": "M8",
+      "from": "Gem Nirmalayam",
+      "to": "Veerakeralam",
+      "firstBus": "06:00",
+      "lastBus": "21:30",
+      "frequencyMins": 30
+    },
+    {
+      "busNo": "V0",
+      "from": "Chinnavedampatti",
+      "to": "Vadavalli Bus Stand",
+      "firstBus": "07:30",
+      "lastBus": "20:30",
+      "frequencyMins": 10
+    },
+    {
+      "busNo": "D7",
+      "from": "Ramanathapuram",
+      "to": "Pulianthoppu Priya Nagar",
+      "firstBus": "07:30",
+      "lastBus": "21:30",
+      "frequencyMins": 30
+    },
+    {
+      "busNo": "N03",
+      "from": "Kuniaymuthur Bus Stop",
+      "to": "Sundakkamuthur",
+      "firstBus": "06:45",
+      "lastBus": "20:30",
+      "frequencyMins": 20
+    },
+    {
+      "busNo": "1Q",
+      "from": "Thottipalayam",
+      "to": "Ganapathy",
+      "firstBus": "05:30",
+      "lastBus": "22:15",
+      "frequencyMins": 10
+    },
+    {
+      "busNo": "F4",
+      "from": "CMS Bus Stop",
+      "to": "Jayaram Nagar",
+      "firstBus": "06:15",
+      "lastBus": "21:00",
+      "frequencyMins": 15
+    },
+    {
+      "busNo": "9R",
+      "from": "Gem Nirmalayam",
+      "to": "Singanallur",
+      "firstBus": "07:45",
+      "lastBus": "21:45",
+      "frequencyMins": 25
+    },
+    {
+      "busNo": "6D",
+      "from": "Peelamedu",
+      "to": "Rainbow Bus Stop",
+      "firstBus": "07:45",
+      "lastBus": "22:45",
+      "frequencyMins": 30
+    },
+    {
+      "busNo": "9UE",
+      "from": "Thomas Park Bus Stop",
+      "to": "KovaiPudur Pirivu",
+      "firstBus": "05:45",
+      "lastBus": "20:15",
+      "frequencyMins": 25
+    },
+    {
+      "busNo": "XR1",
+      "from": "Singanallur",
+      "to": "Nalvar Bus Stop",
+      "firstBus": "06:00",
+      "lastBus": "20:00",
+      "frequencyMins": 20
+    },
+    {
+      "busNo": "7SC",
+      "from": "Sullivan Street",
+      "to": "CIT Bus Stop",
+      "firstBus": "05:30",
+      "lastBus": "22:30",
+      "frequencyMins": 25
+    },
+    {
+      "busNo": "Y0A",
+      "from": "Singanallur",
+      "to": "Navavoor Pirivu",
+      "firstBus": "05:00",
+      "lastBus": "22:15",
+      "frequencyMins": 20
+    },
+    {
+      "busNo": "A4G",
+      "from": "CMS Bus Stop",
+      "to": "Narasimpuram Bus Stop",
+      "firstBus": "06:15",
+      "lastBus": "22:00",
+      "frequencyMins": 25
+    },
+    {
+      "busNo": "G62",
+      "from": "Hope College",
+      "to": "Ondipudur",
+      "firstBus": "05:15",
+      "lastBus": "22:00",
+      "frequencyMins": 10
+    },
+    {
+      "busNo": "9Z3",
+      "from": "Podanur",
+      "to": "Narasimpuram Bus Stop",
+      "firstBus": "06:30",
+      "lastBus": "21:30",
+      "frequencyMins": 15
+    },
+    {
+      "busNo": "9Z2",
+      "from": "LGB Nagar Bus Stop",
+      "to": "Ganapathy",
+      "firstBus": "07:30",
+      "lastBus": "20:30",
+      "frequencyMins": 25
+    },
+    {
+      "busNo": "0D",
+      "from": "Vadavalli Bus Stand",
+      "to": "Ramanathapuram",
+      "firstBus": "07:45",
+      "lastBus": "22:15",
+      "frequencyMins": 15
+    },
+    {
+      "busNo": "6A",
+      "from": "SIHS Colony",
+      "to": "Athupalam Bus Stop",
+      "firstBus": "05:45",
+      "lastBus": "22:45",
+      "frequencyMins": 15
+    },
+    {
+      "busNo": "NG8",
+      "from": "Cheran Nagar",
+      "to": "Kalapatti Pirivu",
+      "firstBus": "06:00",
+      "lastBus": "20:15",
+      "frequencyMins": 30
+    },
+    {
+      "busNo": "7Z",
+      "from": "Cheran Nagar",
+      "to": "Hope College",
+      "firstBus": "07:30",
+      "lastBus": "22:15",
+      "frequencyMins": 10
+    },
+    {
+      "busNo": "U4G",
+      "from": "Hope College",
+      "to": "Gandhipuram Bus Stand",
+      "firstBus": "07:15",
+      "lastBus": "21:30",
+      "frequencyMins": 25
+    },
+    {
+      "busNo": "0EW",
+      "from": "Ganapathy",
+      "to": "Lawley Road",
+      "firstBus": "07:30",
+      "lastBus": "20:15",
+      "frequencyMins": 20
+    },
+    {
+      "busNo": "R1",
+      "from": "Hope College",
+      "to": "Vasanth Nagar",
+      "firstBus": "06:30",
+      "lastBus": "21:15",
+      "frequencyMins": 25
+    },
+    {
+      "busNo": "G3",
+      "from": "Singanallur",
+      "to": "Gandhipuram Bus Stand",
+      "firstBus": "06:30",
+      "lastBus": "22:45",
+      "frequencyMins": 15
+    },
+    {
+      "busNo": "T9",
+      "from": "Thudiyalur Bus Stop",
+      "to": "Peelamedu",
+      "firstBus": "05:15",
+      "lastBus": "22:30",
+      "frequencyMins": 25
+    },
+    {
+      "busNo": "I2",
+      "from": "Saravanampatti",
+      "to": "Viswaspuram Bus Stop",
+      "firstBus": "06:45",
+      "lastBus": "21:30",
+      "frequencyMins": 30
+    },
+    {
+      "busNo": "5A",
+      "from": "SITRA Bus Stop",
+      "to": "Pulianthoppu Priya Nagar",
+      "firstBus": "06:30",
+      "lastBus": "22:45",
+      "frequencyMins": 25
+    },
+    {
+      "busNo": "3I9",
+      "from": "Ukkadam Bus Stand",
+      "to": "Ramanathapuram",
+      "firstBus": "06:45",
+      "lastBus": "20:45",
+      "frequencyMins": 30
+    },
+    {
+      "busNo": "M62",
+      "from": "Hope College",
+      "to": "Sullivan Street",
+      "firstBus": "06:45",
+      "lastBus": "20:15",
+      "frequencyMins": 25
+    },
+    {
+      "busNo": "K6",
+      "from": "Singanallur",
+      "to": "Sundakkamuthur",
+      "firstBus": "06:00",
+      "lastBus": "21:15",
+      "frequencyMins": 20
+    }
+  ]
+}

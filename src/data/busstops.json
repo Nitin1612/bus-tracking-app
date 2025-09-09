@@ -1,0 +1,554 @@
+{
+  "busstops": [
+    {
+      "id": 1,
+      "name": "Gandhipuram Bus Stand",
+      "lat": 11.0176,
+      "lon": 76.9674,
+      "buses": [
+        "36",
+        "47",
+        "4B"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ukkadam Bus Stand",
+      "lat": 10.9902,
+      "lon": 76.9629,
+      "buses": [
+        "22C",
+        "36",
+        "6A"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Lakshmi Mills",
+      "lat": 11.0140,
+      "lon": 76.9861,
+      "buses": [
+        "47",
+        "36",
+        "22C"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "SITRA Bus Stop",
+      "lat": 11.03739,
+      "lon": 77.036424,
+      "buses": [
+        "6A",
+        "47",
+        "23"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "PSG College Bus Stop",
+      "lat": 11.0349,
+      "lon": 77.0337,
+      "buses": [
+        "47",
+        "4B",
+        "18"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Cheran Nagar",
+      "lat": 11.0512,
+      "lon": 76.9423,
+      "buses": [
+        "36",
+        "22C",
+        "10A"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "CMS Bus Stop",
+      "lat": 11.040862,
+      "lon": 76.982306,
+      "buses": [
+        "10A",
+        "22C",
+        "6A"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Athupalam Bus Stop",
+      "lat": 10.9945,
+      "lon": 76.9763,
+      "buses": [
+        "22C",
+        "36",
+        "47"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Thudiyalur Bus Stop",
+      "lat": 11.0801,
+      "lon": 76.9422,
+      "buses": [
+        "6A",
+        "23",
+        "18"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Vadavalli Bus Stand",
+      "lat": 11.0268,
+      "lon": 76.9055,
+      "buses": [
+        "6A",
+        "10A",
+        "47"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Peelamedu",
+      "lat": 11.0306,
+      "lon": 77.0282,
+      "buses": [
+        "47",
+        "10A",
+        "18"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Town Hall",
+      "lat": 10.9950,
+      "lon": 76.9594,
+      "buses": [
+        "4B",
+        "10A",
+        "23"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Coimbatore Junction",
+      "lat": 10.9973,
+      "lon": 76.9664,
+      "buses": [
+        "33",
+        "36",
+        "6A"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Hope College",
+      "lat": 11.0261,
+      "lon": 77.0191,
+      "buses": [
+        "22C",
+        "4B",
+        "62"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Ganapathy",
+      "lat": 11.0361,
+      "lon": 76.9783,
+      "buses": [
+        "47",
+        "36",
+        "62"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Singanallur",
+      "lat": 11.0007,
+      "lon": 77.0296,
+      "buses": [
+        "18",
+        "6A",
+        "33"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Ondipudur",
+      "lat": 11.0033,
+      "lon": 77.0490,
+      "buses": [
+        "22C",
+        "23",
+        "18"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Podanur",
+      "lat": 10.9573,
+      "lon": 76.9856,
+      "buses": [
+        "47",
+        "22C",
+        "6A"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "KovaiPudur Pirivu",
+      "lat": 10.9363,
+      "lon": 76.9509,
+      "buses": [
+        "6A",
+        "18",
+        "10A"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Ram Nagar",
+      "lat": 11.0118,
+      "lon": 76.9615,
+      "buses": [
+        "4B",
+        "33",
+        "47"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Saravanampatti",
+      "lat": 11.0797,
+      "lon": 76.9997,
+      "buses": [
+        "23",
+        "47",
+        "6A"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Kalapatti Pirivu",
+      "lat": 11.0751,
+      "lon": 77.0022,
+      "buses": [
+        "4B",
+        "22C",
+        "23"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Sullivan Street",
+      "lat": 10.993654,
+      "lon":  76.951097,
+      "buses": [
+        "10A",
+        "23",
+        "4B"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Lawley Road",
+      "lat": 11.0124,
+      "lon": 76.9409,
+      "buses": [
+        "47",
+        "62",
+        "18"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Veerakeralam",
+      "lat": 11.0066,
+      "lon": 76.9118,
+      "buses": [
+        "33",
+        "23",
+        "10A"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Sitra",
+      "lat": 11.0354,
+      "lon": 77.0410,
+      "buses": [
+        "10A",
+        "23",
+        "22C"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "PSG Arts Bus Stop",
+      "lat": 11.0101,
+      "lon":  76.9950,
+      "buses": [
+        "18",
+        "22C",
+        "10A"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Navavoor Pirivu",
+      "lat": 11.0342,
+      "lon": 76.8937,
+      "buses": [
+        "36",
+        "62",
+        "33"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Kuniaymuthur Bus Stop",
+      "lat": 10.9580,
+      "lon": 76.9541,
+      "buses": [
+        "22C",
+        "33",
+        "6A"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Thottipalayam",
+      "lat": 11.0797,
+      "lon": 77.1758,
+      "buses": [
+        "18",
+        "22C",
+        "33"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "SIHS Colony",
+      "lat": 11.0178,
+      "lon": 77.0429,
+      "buses": [
+        "6A",
+        "23",
+        "62"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "KGISL Bus Stop",
+      "lat": 11.0810,
+      "lon": 76.9983,
+      "buses": [
+        "18",
+        "22C",
+        "36"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "CIT Bus Stop",
+      "lat": 11.0283,
+      "lon": 77.0273,
+      "buses": [
+        "10A",
+        "33",
+        "4B"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Rainbow Bus Stop",
+      "lat": 11.0348,
+      "lon": 76.9678,
+      "buses": [
+        "6A",
+        "33",
+        "62"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Nalvar Bus Stop",
+      "lat": 11.029354,
+      "lon": 76.965859,
+      "buses": [
+        "36",
+        "10A",
+        "22C"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Ramanathapuram",
+      "lat": 10.9978,
+      "lon": 76.9954,
+      "buses": [
+        "6A",
+        "18",
+        "22C"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Karumbu Kadai",
+      "lat": 10.9758,
+      "lon": 76.9590,
+      "buses": [
+        "36",
+        "10A",
+        "33"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "LGB Nagar Bus Stop",
+      "lat": 11.0532,
+      "lon": 76.9939,
+      "buses": [
+        "6A",
+        "23",
+        "47"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Edayarpalayam Pirivu",
+      "lat": 10.9522,
+      "lon": 76.9535,
+      "buses": [
+        "6A",
+        "18",
+        "22C"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Moongathur Bus Stop",
+      "lat": 11.0038,
+      "lon": 76.9209,
+      "buses": [
+        "4B",
+        "10A",
+        "33"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Narasimpuram Bus Stop",
+      "lat": 11.0051,
+      "lon": 76.9681,
+      "buses": [
+        "6A",
+        "62",
+        "18"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Kulathupalayam Bus Stop",
+      "lat": 10.9424,
+      "lon": 76.9420,
+      "buses": [
+        "33",
+        "18",
+        "36"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Sundarapuram",
+      "lat": 11.00,
+      "lon": 76.95,
+      "buses": [
+        "22C",
+        "47",
+        "23"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "LIC Bus Stop",
+      "lat": 10.9471,
+      "lon": 76.9781,
+      "buses": [
+        "4B",
+        "10A",
+        "6A"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Pulianthoppu Priya Nagar",
+      "lat": 11.0067,
+      "lon": 76.9234,
+      "buses": [
+        "4B",
+        "62",
+        "22C"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Gandhi Nagar",
+      "lat": 11.2,
+      "lon": 77.2,
+      "buses": [
+        "6A",
+        "47",
+        "22C"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Chinna vedampatti",
+      "lat": 11.0620,
+      "lon": 76.9831,
+      "buses": [
+        "47",
+        "62",
+        "36"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Viswaspuram Bus Stop",
+      "lat": 11.0911,
+      "lon": 77.0178,
+      "buses": [
+        "62",
+        "33",
+        "4B"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Thomas Park Bus Stop",
+      "lat": 11.0005,
+      "lon": 76.9844,
+      "buses": [
+        "62",
+        "23",
+        "33"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Sundakkamuthur",
+      "lat": 10.9596,
+      "lon": 76.9269,
+      "buses": [
+        "22C",
+        "4B",
+        "47"
+      ]
+    }
+  ]
+}
